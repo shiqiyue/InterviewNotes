@@ -1,32 +1,19 @@
-<br>
-<img src="https://github.com/CyC2018/InterviewNotes/blob/master/pics/handbook.png" alt="" width="250"/>
-<br>
+<!-- ![](https://img.shields.io/badge/update-today-blue.svg) ![](https://img.shields.io/badge/gitbook-making-lightgrey.svg)</br> -->
+| Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ | Ⅺ |
+| :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:| :-------:|
+|网络[:cloud:](#网络-cloud) |操作系统[:computer:](#操作系统-computer)| 算法[:pencil2:](#数据结构与算法-pencil2)| 面向对象[:couple:](#面向对象-couple) |数据库[:floppy_disk:](#数据库-floppy_disk)| Java [:coffee:](#java-coffee)| 分布式[:sweat_drops:](#分布式-sweat_drops)| 工具[:hammer:](#工具-hammer)| 编码实践[:speak_no_evil:](#编码实践-speak_no_evil)| 资料下载[:arrow_down:](#资料下载-arrow_down)| 后记[:memo:](#后记-memo) |
 
-# 数据结构与算法
-
-> [算法](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/算法.md)
-
-整理自《算法 第四版》，主要整理了面试常问的排序和查找算法。
-
-> [剑指 Offer 题解](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/剑指%20offer%20题解.md)
-
-目录按《剑指 Offer 第二版》编排，在牛客网在线编程中出现的题目都已 AC。
-
-> [Leetcode 题解](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/Leetcode%20题解.md)
-
-对题目做了一个分类，并对每种题型的解题思路做了总结。已经整理了 300+ 的题目，基本涵盖所有经典题目。
-
-# 网络
+## 网络 :cloud:
 
 > [计算机网络](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/计算机网络.md)
 
-整理自《计算机网络 第七版》，重点内容会在标题之后加 \*。
+整理自《计算机网络 第七版》，重点内容会在标题后面加 \*。
 
 > [HTTP](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/HTTP.md)
 
 整理自《图解 HTTP》
 
-# 操作系统
+## 操作系统 :computer:
 
 > [计算机操作系统](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/计算机操作系统.md)
 
@@ -36,7 +23,21 @@
 
 整理自《鸟哥的 Linux 私房菜》
 
-# 面向对象
+## 数据结构与算法 :pencil2:
+
+> [算法](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/算法.md)
+
+整理自《算法 第四版》
+
+> [剑指 Offer 题解](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/剑指%20offer%20题解.md)
+
+《剑指 Offer 第二版》的最优解，在牛客网在线编程中出现的题目都已 AC。
+
+> [Leetcode 题解](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/Leetcode%20题解.md)
+
+对题目做了一个分类，并对每种题型的解题思路做了总结。
+
+## 面向对象 :couple:
 
 > [设计模式](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/设计模式.md)
 
@@ -44,33 +45,77 @@
 
 > [面向对象思想](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/面向对象思想.md)
 
-一些面向对象思想和原则。
+一些面向对象思想和设计原则。
 
-# 数据库
+## 数据库 :floppy_disk:
 
-> [SQL 语法](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/SQL%20语法.md)
+> [数据库系统原理](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/数据库系统原理.md)
+
+整理自《数据库系统概论 第四版》
+
+> [SQL](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/SQL.md)
 
 整理自《SQL 必知必会》
 
 > [MySQL](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/MySQL.md)
 
-整理自《高性能 MySQL》，整理了一些重点内容。
+整理自《高性能 MySQL》
 
-# Java
+> [Redis](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/Redis.md)
 
-> [JVM](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/JVM.md)
+整理自《Redis 设计与实现》和《Redis 实战》
 
-整理自《深入理解 Java 虚拟机》，主要整理了内存模型、垃圾回收以及类加载机制。
+## Java :coffee:
+
+> [Java 虚拟机](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/Java%20虚拟机.md)
+
+整理自《深入理解 Java 虚拟机》
+
+> [Java 并发](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/Java%20并发.md)
+
+只整理了一些比较基础的概念，之后会继续添加更多内容。
 
 > [Java 容器](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/Java%20容器.md)
 
 容器的一些总结，包含容器源码的分析。
 
-> [Java IO](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/Java%20IO.md)
+> [Java I/O](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/Java%20IO.md)
 
-File、InputStream 和 OutputStream、Reader 和 Writer、Serializable、Socket 以及 NIO
+File, InputStream OutputStream, Reader Writer, Serializable, Socket, NIO
 
-# 编码实践
+> [Java 基础](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/Java%20基础.md)
+
+整理了一些常见考点。
+
+> [JDK 中的设计模式](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/JDK%20中的设计模式.md)
+
+对每种设计模式做了一个总结，并给出在 JDK 中的使用实例。
+
+## 分布式 :sweat_drops:
+
+> [分布式基础](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/分布式基础.md)
+
+整理自《大规模分布式存储系统》
+
+> [一致性协议](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/一致性协议.md)
+
+两阶段提交、Paxos、Raft、拜占庭将军问题。
+
+> [分布式问题分析](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/分布式问题分析.md)
+
+分布式事务、复杂均衡算法与实现、分布式锁、分布式 Session、分库分表的分布式困境与应对之策。
+
+## 工具 :hammer:
+
+> [Git](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/Git.md)
+
+整理一些 Git 的使用和概念。
+
+> [正则表达式](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/正则表达式.md)
+
+整理自《正则表达式必知必会》
+
+## 编码实践 :speak_no_evil:
 
 > [重构](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/重构.md)
 
@@ -84,30 +129,47 @@ File、InputStream 和 OutputStream、Reader 和 Writer、Serializable、Socket 
 
 Google 开源项目的代码风格规范。
 
-# 资料下载
+## 资料下载 :arrow_down:
 
-> [百度网盘](https://pan.baidu.com/s/1o9oD1s2#list/path=%2F)
+> [Download](https://github.com/CyC2018/Interview-Notebook/blob/master/other/download.md)
 
-一些 PDF 书籍
+一些 PDF 书籍。
 
-# 后记
+## 后记 :memo:
 
-原文发表在 [牛客网：计算机基础知识整理](https://www.nowcoder.com/discuss/66985)
+**关于仓库**
 
-:star: :star: :star:
+本仓库是笔者在准备 2018 年春招实习过程中的学习总结，内容以计算机书籍的学习笔记为主，在整理重点知识的同时会尽量保证知识的系统性。 
 
-牛客网上有很多优质面经，面经往往会给出一些面试需要准备的知识列表，但是这些知识列表都很零散，不适合系统地进行学习。为此，楼主选取了一些计算机经典书籍和材料，对面试相关的计算机基础知识做了比较系统整理，希望对大家有所帮助。
+**关于贡献**
 
-整理的笔记开源在 Github 上，包括数据结构与算法、网络、操作系统、面向对象。Github 仓库提供相关 PDF 书籍的下载，都是楼主找了很久的高清版本。
+因为大部分内容是笔者一个字一个字打上去的，所有难免会有一些笔误。如果发现，可以直接在相应的文档上编辑修改。
 
-笔记内容基本是楼主一个字一个字打上去的，可供个人随意使用，转载请注明出处，毕竟写了很久没那么轻松~
+笔者能力有限，很多内容还不够完善。如果您希望和笔者一起完善这个仓库，可以在发表一个 Issue，表明您想要添加的内容，笔者会及时查看。
 
-如果发现笔误，可以直接编辑修改，楼主会及时处理。
+因为不打算将这个仓库做成一个大而全的面试宝典，只希望添加一些比较通用的基础知识，或者是与 Java 和分布式相关的内容，但是不添加 Java Web 相关的内容。
 
-想要支持楼主的话，在 Github 上点个 Star 即可。
+您也可以在 Issues 中发表关于改进本仓库的建议。
 
-楼主作为一个轻度强迫症患者，笔记内容会尽量保证排版美观，可读性好。为了让笔记内容更整洁，前前后后做了很多次修改，甚至写了一个为中英混排文档进行排版的脚本，来提高笔记的可读性。
+**关于上传**
 
-为了上传笔记到 Github 上，花了不少时间。Github 使用的是 GFM 来渲染 md 文档，和普通的 Markdown 不太一样，例如 GFM 不支持 MathJax 公式，也不支持 TOC 标记，为此需要替换 MathJax 公式为 CodeCogs 的云服务和重新生成 TOC 目录。楼主写了一个小工具可以将普通的 Markdown 文档转换为 GFM 文档，有需要该工具的话可以在楼主的 Github 中找到。
+笔者在本地使用为知笔记软件进行书写，为了方便将本地笔记内容上传到 Github 上，实现了一整套自动化上传方案，包括文本文件的导出、提取图片、Markdown 文档转换、Git 同步。
 
-:star: :star: :star:
+进行 Markdown 文档转换是因为 Github 使用的 GFM 不支持 MathJax 公式和 TOC 标记，所以需要替换 MathJax 公式为 CodeCogs 的云服务和重新生成 TOC 目录。这里提供了笔者实现的 GFM 文档转换工具的下载：[GFM-Converter](https://github.com/CyC2018/GFM-Converter)。
+
+**关于排版**
+
+笔记内容按照 [中文文案排版指北](http://mazhuang.org/wiki/chinese-copywriting-guidelines/#%E4%B8%8D%E8%A6%81%E4%BD%BF%E7%94%A8%E4%B8%8D%E5%9C%B0%E9%81%93%E7%9A%84%E7%BC%A9%E5%86%99) 进行排版，以保证内容的可读性。这里提供了笔者实现的中英混排文档在线排版工具：[Text-Typesetting](https://github.com/CyC2018/Markdown-Typesetting)，目前实现了加空格的功能，之后打算实现对英文专有名词提示首字母大写的功能。
+
+不使用 `![]()` 这种方式来引用图片是为了能够控制图片以合适的大小显示。而且 GFM 不支持 `<center> ![]() </center>` 让图片居中显示，只能使用 `<div align="center"> <img src=""/> </div>` ，所以只能使用 img 标签来引用图片。
+
+**关于转载**
+
+本仓库内容使用到的资料都会在最后面的参考资料中给出引用链接，希望您在使用本仓库的内容时也能给出相应的引用链接。
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/cn/88x31.png" /></a>
+
+本作品采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/">知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议</a> 进行许可。
+
